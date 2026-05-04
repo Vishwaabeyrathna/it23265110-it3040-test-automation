@@ -33,7 +33,6 @@ venv.bak/
 
 # IDE / editor
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -56,5 +55,5 @@ test-results/
 *.log
 
 # Local secrets / env
-.env
-.env.local
+config.bat
+node_modules

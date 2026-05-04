@@ -1,4 +1,4 @@
-# IT3040 Assignment 1 — Option 1: Transliteration Testing - IT2321
+# IT3040 Assignment 1 — Option 1: Transliteration Testing - IT23265110
 
 Playwright-based automation that tests the Chat Sinhala transliteration function at
 [https://www.pixelssuite.com/chat-translator](https://www.pixelssuite.com/chat-translator)

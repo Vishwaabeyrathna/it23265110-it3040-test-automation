@@ -1,0 +1,67 @@
+TC ID	Input length type	Input	Expected output
+Neg_0001	M	oyata mokkda una kiyala mata kiyanna puluwanda ada	ඔයාට මොකද උනා කියලා මට කියන්න පුළුවන්ද අද
+Neg_0002	M	oya mokada karanne dan gedara giyada pddak kalin	ඔයා මොකද කරන්නේ දැන් ගෙදර ගියාද පොඩ්ඩක්  කලින්
+Pos_0003	M	heta udeta yanna ona kalin enna gedarata	හෙට උදේට යන්න ඕන කලින් එන්න ගෙදරට
+Neg_0004	M	subha udesanak wewa oyalata, dawasama suba wewa apita	සුභ උදෑසනක් වේවා ඔයාලට, දවසම සුබ වේවා අපිට
+Neg_0005	M	ayubowan theruwan saranai pinwath gurutuma ape pansale	ආයුබෝවන් තෙරුවන් සරණයි පින්වත් ගුරුතුමා අපේ පන්සලේ
+Neg_0006	M	karunakr mata pddak udauwa krnna mage paadama liyanna	කරුණාකර මට පොඩ්ඩක් උදව්ව කරන්න මගේ පාඩම ලියන්න
+Neg_0007	M	karunakarala mata mage book eka labadenna puluwanda 	කරුණාකරලා මට මගේ book එක ලබාදෙන්න පුළුවන්ද?
+Neg_0008	M	hari hari mama enawa heta udeta gedarata	හරි හරි මම එනවා හෙට උදේට ගෙදරට
+Neg_0009	M	mama yanawa gedara..oyath enawada mage ekka??	මම යනවා ගෙදර..ඔයත් එනවද මගේ එක්ක??
+Neg_0010	M	ane!!mage yaluwane api yamu cinema ekata!	අනේ!!මගේ යාලුවනේ අපි යමු සිනමා එකට!
+Neg_0011	M	mn oytaa kthaa krnnm passe waa kade gihilla	මං ඔයාට කතා කරන්නම් පස්සේ වා කඩේ ගිහිල්ලා
+Neg_0012	S	mge nm chamod malli	මගේ නම චමොද් මල්ලී
+Pos_0013	M	ape group ekata join wenna heta udeta hari	අපේ group එකට join වෙන්න හෙට උදේට හරි
+Neg_0014	M	api den going home, will catch up later machan	අපි දැන් going home, will catch up later මචං
+Neg_0015	M	mage internet eka slow wela yaluwo work karanna ba	මගේ internet එක slow වෙලා යාලුවො work කරන්න බෑ
+Neg_0016	M	Telegram eken massage ekak ewanna mata kalin	Telegram එකෙන් message එකක් එවන්න මට කලින්
+Pos_0017	M	IELTS exam eka heta udeta thiyenawa	IELTS exam එක හෙට උදේට තියෙනවා
+Neg_0018	M	chargr eka socket ekata gahanna phone eka charge wenna	charger එක socket එකට ගහන්න phone එක charge වෙන්න
+Neg_0019	M	api Galle yana gaman Hikkaduwa beach ekata gihilla enawa heta	අපි ගාල්ල යන ගමන් හික්කඩුවා beach එකට ගිහිල්ලා එනවා හෙට
+Neg_0020	M	Kasun saha Nimal yaluwo ekka kade gihilla awa	කසුන් සහ නිමල් යාලුවෝ එක්ක කඩේ ගිහිල්ලා ආවා
+Neg_0021	M	Ravindu sir paadam karanne hondata sinhala	රවිඳු sir පාඩම කරන්නේ හොඳට සිංහල
+Neg_0022	M	mata 2nd chance ekak denna machan exam ekata	මට 2nd chance එකක් දෙන්න මචං exam එකට
+Neg_0023	M	avurudu 25k mge wayasa den hariyata	අවුරුදු 25ක් මගේ වයස දැන් හරියට
+Neg_0024	M	Rs 100 maru karanna bank ekata gihilla heta	 Rs 100 මාරු කරන්න බැංකු එකට ගිහිල්ලා හෙට
+Neg_0025	M	pancthi eka 8.30AM patan thiyenawa university eke	පන්තිය 8.30AM පටන් තියෙනවා විශ්වවිද්‍යාලයේ
+Neg_0026	M	bus eka 11:45pm pitath wenawa Colombo idala	බස් එක 11:45pm පිටත් වෙනවා කොළඹ ඉඳලා
+Neg_0027	M	deadline eka 2026/06/15ta thiyenawa project ekata	deadline එක 2026/06/15ට තියෙනවා project එකට
+Neg_0028	M	Kamare gawata usa mango gahak thiyee	කාමරේ ගාවට උස අඹ ගහක් තියේ
+Neg_0029	M	machan elakiri mchn supiri wedak una ada	මචං එළකිරි මචන් සුපිරි වැඩක් උනා අද
+Neg_0030	M	patta wedak machan unath mata therennawa hari	පට්ට වැඩක් මචං උනත් මට තේරෙනවා හරි
+Neg_0031	M	mage profile eka https://github.com/user balanna kalin	මගේ profile එක https://github.com/user බලන්න කලින්
+Neg_0032	S	mata kammeli ai 😴 nidi enawa	මට කම්මැලි ඇයි 😴 නිදි එනවා
+Pos_0033	M	mage kiri eka bonna denna malliyata kalin	මගේ කිරි එක බොන්න දෙන්න මල්ලියට කලින්
+Pos_0034	M	mala mata denna lassana gahaka watena	මල මට දෙන්න ලස්සන ගහක වැටෙන
+Neg_0035	M	maala eka lassanai mage ammage thurule	මාල එක ලස්සනයි මගේ අම්මගේ තුරුලේ
+Neg_0036	M	paana eka damanna kalu thiyena kamare ulata	පාන එක දාන්න කළු තියෙන කාමරේ උළට
+Pos_0037	M	gas yatata enna wessa wahinawa dan	ගස් යටට එන්න වැස්ස වහිනවා දැන්
+Pos_0038	M	thaththa awa gedara kalin office eken	තාත්තා ආවා ගෙදර කලින් office එකෙන්
+Neg_0039	M	basa eka enawa kalin schoolayata yanna	බස් එක එනවා කලින් පාසලට යන්න
+Neg_0040	M	kanda uda inawa kurulla pawu lassanai balanna	කන්ද උඩ ඉන්නවා කුරුල්ලා පවු ලස්සනයි බලන්න
+Neg_0041	M	sthree pirimi dedenama enna ape ranga prasangayata	ස්ත්‍රී පිරිමි දෙදෙනාම එන්න අපේ රඟ ප්‍රසංගයට
+Pos_0042	M	dharma deshana ahanna yamu pansalata heta udeta	ධර්ම දේශනා අහන්න යමු පන්සලට හෙට උදේට
+Neg_0043	M	surya ridmiya watenawa mage muhuna uda hondata	සූර්ය රශ්මිය වැටෙනවා මගේ මුහුණ උඩ හොඳට
+Pos_0044	M	mage gmail eka check karanna kalin login wenna ona	මගේ gmail එක check කරන්න කලින් login වෙන්න ඕන
+Pos_0045	M	mokoda kiwwe ee welawe oya mata phone eken	මොකද කිව්වේ ඒ වෙලාවේ ඔයා මට phone එකෙන්
+Neg_0046	M	mokada una matath therenne na ee deyak gana	මොකද උනේ මටත් තේරෙන්නේ නෑ ඒ දේක ගැන
+Neg_0047	M	wishwa widyalayata yanawa heta udeta paadam karanna	විශ්වවිද්‍යාලයට යනවා හෙට උදේට පාඩම් කරන්න
+Neg_0048	M	jyotishaya gana wishwasa na mata ee kathawa	ජ්‍යොතිෂය ගැන විශ්වාස නෑ මට ඒ කතාව
+Neg_0049	M	ko ko meka kiwwe mata kalin karanna ona	කෝ කෝ මේක කිව්වේ මට කලින් කරන්න ඕන
+Neg_0050	M	wassa eke patan ganimu ape work eka kalin	වස්සේ ඉඳන් පටන් ගනිමු අපේ work එක කලින්
+Neg_0051	S	mt 5k denna mchn ada	මට 5ක් දෙන්න මචං අද
+Pos_0052	S	heta 7.30AM enna ona	හෙට 7.30AM එන්න ඕන
+Pos_0053	S	ai oya hinaa wenne 😂	ඇයි ඔයා හිනා වෙන්නේ 😂
+Neg_0054	S	mage CV eka ewanna	මගේ CV එක එවන්න
+Neg_0055	S	OTP eka kiyanna ikmanin	OTP එක කියන්න ඉක්මනින්
+Neg_0056	S	sangkya eka liyanna	සංඛ්‍යාව ලියන්න
+Neg_0057	S	rs 250/= witharai bus	rs 250/= විතරයි බස්
+Pos_0058	S	api LOL kiwwa kalin	අපි LOL කිව්වා කලින්
+Neg_0059	S	@nimal hari kiyanna	@nimal හරි කියන්න
+Neg_0060	S	mle eka aragena enna	මලේ එක අරගෙන එන්න
+Neg_0061	S	ane!! mata bay hithe	අනේ!! මට බය හිතේ
+Neg_0062	S	jyothishaya balanna ona	ජ්‍යොතිෂය බලන්න ඕන
+Pos_0063	S	1k denna mata kalin	1ක් දෙන්න මට කලින්
+Pos_0064	S	thttha awa gdara dn	තාත්තා ආවා ගෙදර දැන්
+Neg_0065	S	hmmm hari machan ehe	හ්ම්ම් හරි මචං එහෙ
+Neg_0066	S	dhwani eka adui filme	ධ්වනි එක අඩුයි ෆිල්මේ
